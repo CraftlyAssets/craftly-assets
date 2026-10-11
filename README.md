@@ -10,7 +10,20 @@ digital papers and teaching materials.
 index.html          the page
 styles.css          styles, no external dependencies
 assets/samples/     sample artwork (SVG)
+assets/packs/       collection previews (PNG)
 ```
+
+## Collections
+
+| Collection | Contents |
+|---|---|
+| Winter Snowflakes | 24 snowflake SVG cut files |
+| Christmas Trees | 16 layered tree SVG cut files |
+| Bauble Ornaments | 16 hanging bauble SVG cut files |
+| Sparkles & Stars | 16 sparkle and star SVG cut files |
+
+Each collection is also available as a set of separate SVG files with a
+commercial-use license.
 
 ## Local preview
 
