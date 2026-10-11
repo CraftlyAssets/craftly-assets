@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<rect width="600" height="600" fill="#f0fdfa"/>
+<defs><pattern id="t" width="120" height="120" patternUnits="userSpaceOnUse">
+<rect width="120" height="120" fill="#f0fdfa"/>
+<path d="M0 0 L60.0 60.0 L0 120 Z" fill="#0f766e"/>
+<path d="M120 0 L60.0 60.0 L120 120 Z" fill="#14b8a6"/>
+</pattern></defs>
+<rect width="600" height="600" fill="url(#t)"/>
+</svg>
